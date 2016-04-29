@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis:300);
+
+body {
+  text-align : center;
+}
+
+#mainContainer {
+  width : 100%;
+  background : black;
+  height : 700px;
+}
+
+#mainHeader {
+  padding-top: 65px;
+  margin: 0 auto;
+  color : white;
+  font-family : Dosis, sans-serif;
+  font-size : 5rem;
+}
+
+
+#mainIcon {
+  width : 92px;
+  height : 92px;
+  padding-top : 50px;
+  position : relative;
+  display : block;
+  margin : 0 auto;
+  z-index : 50;
+  opacity : 0.9;
+}
+
+#mainTemp {
+  padding-top : 30px;
+  color : white;
+  font-family : Dosis;
+  font-size : 3.5rem;
+  position : relative;
+  display : inline-block;
+}
+
+
+#mainDegrees {
+  font-size : 2rem;
+  color : white;
+  display : inline-block; 
+  position : relative;
+  top : -25px; 
+}
+
+#mainF {
+  color : white;
+  display : inline-block;
+  position : relative; 
+  font-size : 1.9rem;
+  top : -20px;
+}
+
+#mainC {
+  color : grey;
+  display : inline-block;
+  position : relative; 
+  font-size : 2rem;
+  top : -20px;
+}
