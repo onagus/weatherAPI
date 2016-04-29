@@ -1,2 +1,2 @@
 # weatherAPI
-http://codepen.io/onagus/pen/XdXKZN
+http://jsbin.com/wopofepepi/edit?js,output
