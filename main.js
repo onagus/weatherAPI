@@ -25,7 +25,7 @@ if (getHours >= 18 && getHours <= 21){
   timeOfDay = "Atlanta_Background_Evening";
 }
  
-var weatherJSON = "http://api.openweathermap.org/data/2.5/weather?q=seattle,us&appid=c3801216ef0be7a651300768985808ef";
+var weatherJSON = "http://api.openweathermap.org/data/2.5/weather?q=washington_dc,us&appid=c3801216ef0be7a651300768985808ef";
 
 var flickrClouds = "https://api.flickr.com/services/rest/?format=json&method=flickr.photosets.getPhotos&photoset_id=72157665270698541&+description+&api_key=814796ef7eee08b0534ae009b71b62aa&jsoncallback=?";
 
