@@ -1,2 +1,2 @@
 # weatherAPI
-http://jsbin.com/wopofepepi/edit?js,output
+http://jsbin.com/zuwesiweco/1/edit?output
